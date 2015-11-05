@@ -1,2 +1,7 @@
 Package: Package627
 Version: 0.1
+Date: 11/05/2015
+Title: Package 627
+Description: Functions Used in Stat 627
+Author: Zaiwei Liu
+Maintainer: Zaiwei Liu <zaiwei.liu@wisc.edu>
